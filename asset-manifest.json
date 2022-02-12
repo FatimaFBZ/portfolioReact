@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolioReact/static/css/main.1dbaca22.css",
+    "main.js": "/portfolioReact/static/js/main.d45f851e.js",
+    "static/js/787.df06223f.chunk.js": "/portfolioReact/static/js/787.df06223f.chunk.js",
+    "static/media/Resume1.pdf": "/portfolioReact/static/media/Resume1.28e948484206905e84f9.pdf",
+    "static/media/fatima.jpg": "/portfolioReact/static/media/fatima.9aabace223c5e7f98780.jpg",
+    "index.html": "/portfolioReact/index.html",
+    "main.1dbaca22.css.map": "/portfolioReact/static/css/main.1dbaca22.css.map",
+    "main.d45f851e.js.map": "/portfolioReact/static/js/main.d45f851e.js.map",
+    "787.df06223f.chunk.js.map": "/portfolioReact/static/js/787.df06223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbaca22.css",
+    "static/js/main.d45f851e.js"
+  ]
+}
