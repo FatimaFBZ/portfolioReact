@@ -1,0 +1,19 @@
+.aboutMe {
+    color:gray;
+    background-color:blanchedalmond ;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    margin:20px;  
+}
+.header ul li {
+    display: inline-block;
+    margin-left: 25px;
+    text-decoration: underline;
+    padding:20px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+   
+   
+    
+}
