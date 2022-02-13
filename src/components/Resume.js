@@ -4,7 +4,7 @@ import image from "../assets/Resume1.pdf"
 function Resume(){
     return(
         <div className="App">
-           <h1 className="resume">My Resume</h1>
+           <h1 className="container">My Resume</h1>
            <li>
            <a href={image}>Resume</a>
            </li>

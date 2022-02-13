@@ -6,13 +6,14 @@ function Contacts (){
     return(
 
         <div className="App" >
-        <h1>Contact Me</h1>
-        <p className="card"> 
-            <hr></hr>
-            email: fatima_baluch@hotmail.com
-            <hr></hr>
-            phone: 425-977-9562
+        <h1 className="container">Contact Me</h1>
+        <p className="paragraph"> 
+          <h1>Email:</h1>  
+            <p> fatima_baluch@hotmail.com</p> 
+          <h1>Phone:</h1>  
+            <p> 425-977-9562</p> 
         </p>
+        
 </div>
 
 

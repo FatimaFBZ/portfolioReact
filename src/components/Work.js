@@ -7,10 +7,10 @@ function Work() {
             <h1 className="container">Projects</h1>
             <hr></hr>
 
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="card">
-                        <div class="card-body">
+            <div className="row">
+                <div className="col-sm-6">
+                    <div className="card">
+                        <div className="card-body">
                             <h5 class="card-title">MoviesGiffys</h5>
                             <p class="card-text">Look up details about your favorite movies and award winning films</p>
                             <a target="_blank" href="https://hayvant.github.io/giphymeetsmovies/">MoviesGiffys</a>

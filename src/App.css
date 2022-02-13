@@ -36,6 +36,30 @@
     transform: rotate(360deg);
   }
 }
-.card{
+.container{
   background-color: blanchedalmond;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #61dafb;
+  padding:10px;
+  width: 100px;
+  margin:20px;
+
 }
+
+.mb-5{
+  border-radius: 50%;
+  border: 7px solid #61dafb;
+  width:120px;
+  height:120px;
+}
+
+.paragraph {
+  margin:0 auto;
+  border-radius: 20px;
+  padding:30px;
+  max-width: 400px;
+  min-width: 400px;
+  background-color:lightblue;
+  text-align: center;
+}
+
