@@ -12,10 +12,10 @@ if you have questions:
 email:fatima_baluch@hotmail.com
 
 # Link to Deployed App
-https://fatimafbz.github.io/portfolioReact/
+https://FatimaFBZ.github.io/portfolioreact
 
 # link to github:
-https://github.com/FatimaFBZ/portfolioReact
+https://github.com/FatimaFBZ/portfolioreact
 
 # Link to to deployed to Heroku
 https://portfolio3react.herokuapp.com/
