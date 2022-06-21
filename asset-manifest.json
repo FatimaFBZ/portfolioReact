@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolioReact/static/css/main.efc5b7f8.css",
-    "main.js": "/portfolioReact/static/js/main.da712034.js",
-    "static/js/787.df06223f.chunk.js": "/portfolioReact/static/js/787.df06223f.chunk.js",
-    "static/media/Resume1.pdf": "/portfolioReact/static/media/Resume1.28e948484206905e84f9.pdf",
-    "static/media/fatima.jpg": "/portfolioReact/static/media/fatima.9aabace223c5e7f98780.jpg",
-    "index.html": "/portfolioReact/index.html",
-    "main.efc5b7f8.css.map": "/portfolioReact/static/css/main.efc5b7f8.css.map",
-    "main.da712034.js.map": "/portfolioReact/static/js/main.da712034.js.map",
-    "787.df06223f.chunk.js.map": "/portfolioReact/static/js/787.df06223f.chunk.js.map"
+    "main.css": "/portfolioreact/static/css/main.efc5b7f8.css",
+    "main.js": "/portfolioreact/static/js/main.685424d3.js",
+    "static/js/787.df06223f.chunk.js": "/portfolioreact/static/js/787.df06223f.chunk.js",
+    "static/media/Resume1.pdf": "/portfolioreact/static/media/Resume1.28e948484206905e84f9.pdf",
+    "static/media/fatima.jpg": "/portfolioreact/static/media/fatima.9aabace223c5e7f98780.jpg",
+    "index.html": "/portfolioreact/index.html",
+    "main.efc5b7f8.css.map": "/portfolioreact/static/css/main.efc5b7f8.css.map",
+    "main.685424d3.js.map": "/portfolioreact/static/js/main.685424d3.js.map",
+    "787.df06223f.chunk.js.map": "/portfolioreact/static/js/787.df06223f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efc5b7f8.css",
-    "static/js/main.da712034.js"
+    "static/js/main.685424d3.js"
   ]
 }
